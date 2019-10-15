@@ -2,7 +2,7 @@ This is my git file.
 
 class Hello
 {
-main(){
-sysout("Welcome to git");
+public static void main main(String args[]){
+System.out.println("Welcome to git");
 }
 }
