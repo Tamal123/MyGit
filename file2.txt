@@ -2,11 +2,12 @@ This is my git file.
 
 class Hello
 {
-void myMethod()
+static void myMethod()
 {
   sysout("MyMethod");
 }
 public static void main(String args[]){
+myMethod();
 System.out.println("Java Application to print ...Welcome to git");
 }
 }
