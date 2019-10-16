@@ -2,9 +2,9 @@ This is my git file.
 
 class Hello
 {
-static String myMethod()
+public static String myMethod(String str)
 {
-  return("myMethod");
+  return str; 
 }
 
 public static void main(String args[]){
