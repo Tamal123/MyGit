@@ -3,7 +3,6 @@ This is my git file.
 class Hello
 {
 public static void main(String args[]){
-System.out.println("Java Application to print...***Welcome to git");
-System.out.println("hello");
+System.out.println("Java Application to print Welcome to git");
 }
 }
